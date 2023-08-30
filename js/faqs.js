@@ -1,0 +1,1 @@
+import{Accordion}from"https://cdn.digitalbutlers.me/projects/hord/scripts/modules/accordion/index.js";const accordion=new Accordion({isSingle:!0,groupSelector:'[data-role="faq-group"]',itemSelector:'[data-role="faq"]',summarySelector:'[data-role="faq-summary"]',detailsSelector:'[data-role="faq-details"]'});accordion.init();
